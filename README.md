@@ -1,0 +1,2 @@
+# gressquel.com
+website static

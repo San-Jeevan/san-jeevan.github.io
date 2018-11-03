@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "gressquel", ".", "{BDA0BF60-C7F9-42E7-89A2-6780AF7A9777}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54185"
+		Debug.AspNetCompiler.PhysicalPath = "..\gressquel\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54185\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54185"
+		Release.AspNetCompiler.PhysicalPath = "..\gressquel\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54185\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54185"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA0BF60-C7F9-42E7-89A2-6780AF7A9777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA0BF60-C7F9-42E7-89A2-6780AF7A9777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69904456-3FB6-4FE3-8568-B8C1E6D72B50}
+	EndGlobalSection
+EndGlobal
