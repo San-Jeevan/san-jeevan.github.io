@@ -3757,3 +3757,9 @@ input, select, textarea {
 			}
 
 		}
+
+
+video {
+    max-width: 100%;
+    height: auto;
+}
